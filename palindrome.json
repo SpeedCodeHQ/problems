@@ -1,5 +1,5 @@
 [
   { "input": ["racecar"], "expected": true },
   { "input": ["hello"], "expected": false },
-  { "input": ["madam"], "expected": true },
+  { "input": ["madam"], "expected": true }
 ]

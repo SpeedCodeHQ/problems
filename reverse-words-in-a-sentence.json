@@ -1,0 +1,6 @@
+[
+  { "input": ["hello world"], "expected": "world hello" },
+  { "input": ["the sky is blue"], "expected": "blue is sky the" },
+  { "input": [""], "expected": "" },
+  { "input": ["a"], "expected": "a" }
+]

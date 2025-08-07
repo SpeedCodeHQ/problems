@@ -1,0 +1,7 @@
+[
+  { "input": ["listen", "silent"], "expected": true },
+  { "input": ["evil", "vile"], "expected": true },
+  { "input": ["fluster", "restful"], "expected": true },
+  { "input": ["hello", "world"], "expected": false },
+  { "input": ["a", "a"], "expected": true }
+]
